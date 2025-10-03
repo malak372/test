@@ -4,7 +4,7 @@ public class hello {
 	
 	public void add (int x, int y)
 	{
-		
+		//my name malak
 	}
 
 	public static void main(String[] args) {
